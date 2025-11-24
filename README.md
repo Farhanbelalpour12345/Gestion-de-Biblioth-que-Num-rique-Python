@@ -24,7 +24,7 @@ Les données sont stockées dans un fichier `bibliotheque.json` afin d'assurer l
 
 1. Télécharger ou cloner le projet :
 ```bash
-git clone https://github.com/username/bibliotheque-numerique.git
+git clone https://github.com/Farhanbelalpour12345/Gestion-de-Biblioth-que-Num-rique-Python
 ```
 
 2. Accéder au dossier :
@@ -98,3 +98,4 @@ Entrez le titre du livre à emprunter : Les Misérables
 ## ✍️ Auteur
 
 👨‍💻 Développé par *Mohammad Belalpour*
+
