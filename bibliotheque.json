@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "titre": "1984",
+        "auteur": "George Orwell",
+        "genre": "Dystopie",
+        "annee_publication": 1949,
+        "prix": 12.99,
+        "disponible": true,
+        "note": 0,
+        "historique": []
+    },
+    {
+        "id": 2,
+        "titre": "Le Petit Prince",
+        "auteur": "Antoine de Saint-Exupéry",
+        "genre": "Conte",
+        "annee_publication": 1943,
+        "prix": 9.5,
+        "disponible": true,
+        "note": 0,
+        "historique": []
+    },
+    {
+        "id": 3,
+        "titre": "Harry Potter à l'école des Sorciers",
+        "auteur": "J.K. Rowling",
+        "genre": "Fantasy",
+        "annee_publication": 1997,
+        "prix": 19.99,
+        "disponible": true,
+        "note": 0,
+        "historique": []
+    },
+    {
+        "id": 4,
+        "titre": "Clean Code",
+        "auteur": "Robert C. Martin",
+        "genre": "Informatique",
+        "annee_publication": 2008,
+        "prix": 34.9,
+        "disponible": true,
+        "note": 0,
+        "historique": []
+    },
+    {
+        "id": 5,
+        "titre": "Sapiens",
+        "auteur": "Yuval Noah Harari",
+        "genre": "Histoire",
+        "annee_publication": 2011,
+        "prix": 24.0,
+        "disponible": true,
+        "note": 0,
+        "historique": []
+    },
+    {
+        "id": 6,
+        "titre": "Le Comte de Monte-Cristo",
+        "auteur": "Alexandre Dumas",
+        "genre": "Aventure",
+        "annee_publication": 1844,
+        "prix": 14.0,
+        "disponible": true,
+        "note": 0,
+        "historique": []
+    },
+    {
+        "id": 7,
+        "titre": "Algorithms",
+        "auteur": "Robert Sedgewick",
+        "genre": "Informatique",
+        "annee_publication": 2011,
+        "prix": 45.0,
+        "disponible": true,
+        "note": 0,
+        "historique": []
+    },
+    {
+        "id": 8,
+        "titre": "La Peste",
+        "auteur": "Albert Camus",
+        "genre": "Roman",
+        "annee_publication": 1947,
+        "prix": 11.0,
+        "disponible": true,
+        "note": 0,
+        "historique": []
+    },
+    {
+        "id": 9,
+        "titre": "Don Quichotte",
+        "auteur": "Miguel de Cervantes",
+        "genre": "Roman",
+        "annee_publication": 1605,
+        "prix": 16.5,
+        "disponible": true,
+        "note": 0,
+        "historique": []
+    },
+    {
+        "id": 10,
+        "titre": "Le Rouge et le Noir",
+        "auteur": "Stendhal",
+        "genre": "Roman",
+        "annee_publication": 1830,
+        "prix": 10.2,
+        "disponible": true,
+        "note": 0,
+        "historique": []
+    }
+]
